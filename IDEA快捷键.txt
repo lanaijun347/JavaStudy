@@ -1,0 +1,9 @@
+ctrl + B          跳转到定义
+Ctrl + Y          删除当前行
+Ctrl + D          复制当前行，直接在下一行复制出当前行
+ctrl + Alt + V    自动生成等式左边
+ctrl + Alt + L    自动美化格式
+Ctrl + Alt + T    将选中的代码使用 if、while、try/catch 等代码块包装起来（功能强大）
+alt  + insert     快速生成javaBean的get()\set()
+ctrl + alt + ←    返回上一步
+ctrl + P          在调用方法时，可以查看需要传值到的参数
