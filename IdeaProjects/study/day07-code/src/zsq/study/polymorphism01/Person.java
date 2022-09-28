@@ -4,6 +4,13 @@ public class Person {
     private String name;
     private int age;
 
+    {
+        // 写在成员位置的代码块
+        // 作用：可以把多个构造方法中重复的代码抽取出来
+        // 构造代码块优先于构造方法先执行
+        System.out.println("构造代码块执行了");
+    }
+
     public Person() {
     }
 

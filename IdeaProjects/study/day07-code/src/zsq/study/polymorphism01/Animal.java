@@ -5,6 +5,10 @@ public class Animal {
     private String color;
     private int age;
 
+    static {
+        System.out.println("静态代码块， 随着类的加载而加载，只执行一次，通常用于数据初始化。");
+    }
+
     public Animal() {
     }
 
@@ -29,7 +33,7 @@ public class Animal {
         this.age = age;
     }
 
-    public void ect(String something){
+    public void ect(String something) {
         System.out.println("动物在吃" + something);
     }
 }
