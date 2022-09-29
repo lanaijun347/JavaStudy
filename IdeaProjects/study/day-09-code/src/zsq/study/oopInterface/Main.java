@@ -5,7 +5,7 @@ public class Main {
 
         // interface 接口 关键字 例如：public interface 接口名{}
         // 接口不能实例化，即不能创建对象
-        // 接口和类直接是实现关系，通过 implement 关键字表示 例如： public class 类名 implement 接口名 {}
+        // 接口和类之间是实现关系，通过 implement 关键字表示 例如： public class 类名 implement 接口名 {}
         // 接口的子类：要么重写接口中的所有抽方法，要么是 抽象类
 
         // 注意1：接口和类的实现关系，可以单实现，也可以多实现

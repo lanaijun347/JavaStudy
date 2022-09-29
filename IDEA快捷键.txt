@@ -6,4 +6,11 @@ ctrl + Alt + L    自动美化格式
 Ctrl + Alt + T    将选中的代码使用 if、while、try/catch 等代码块包装起来（功能强大）
 alt  + insert     快速生成javaBean的get()\set()
 ctrl + alt + ←    返回上一步
+ctrl + N          搜索类快捷键，查看类的源码
 ctrl + P          在调用方法时，可以查看需要传值到的参数
+
+
+cmd:
+javac + 文件名.java    编译
+javap + 文件名.class   反编译
+java  +  文件名        运行
