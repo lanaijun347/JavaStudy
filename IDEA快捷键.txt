@@ -8,6 +8,7 @@ alt  + insert     快速生成javaBean的get()\set()
 ctrl + alt + ←    返回上一步
 ctrl + N          搜索类快捷键，查看类的源码
 ctrl + P          在调用方法时，可以查看需要传值到的参数
+CTRL + alt + M    选中代码，封装成一个方法
 
 
 cmd:
